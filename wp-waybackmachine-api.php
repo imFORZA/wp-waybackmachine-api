@@ -5,6 +5,7 @@
  * https://archive.org/help/wayback_api.php
  * http://timetravel.mementoweb.org/guide/api/
  * https://blog.archive.org/developers/
+ * https://archive.readme.io/docs
  * @package WP-WayBackMachine-API
  */
 
